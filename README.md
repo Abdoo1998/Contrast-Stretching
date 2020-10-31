@@ -9,4 +9,5 @@ Low-contrast images such as below.
 <img src="https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2018/02/black-and-white-low-contrast-fog.jpg?w=750&ssl=1" width="500" height="350"> 
 Source: https://digital-photography-school.com/enhance-mood-foggy-photos/.
 
+
 Contrast stretching is very useful to process low-contrast images so that the images have wider range of tones and therefore the objects could be more visible than the environment. 
