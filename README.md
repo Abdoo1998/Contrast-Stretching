@@ -5,4 +5,5 @@ Contrast stretching is one of the image enhancement techniques which increases t
 There are high contrast images and low contrast images. High-contrast images display a wide range of tones, from brighter color to darker color. Low-contrast images display less wider range of tones, in which the images mostly have the same hue.
 
 Low-contrast images such as below.
-<img src="https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2018/02/black-and-white-low-contrast-fog.jpg?w=750&ssl=1" width="100" height="100">
+
+<img src="https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2018/02/black-and-white-low-contrast-fog.jpg?w=750&ssl=1" width="300" height="300">
